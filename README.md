@@ -28,6 +28,7 @@ It includes customer demographics, service subscriptions, contract details, mont
 - Derived actionable insights to reduce churn
 
 ### Tableau
+- Imported the cleaned dataset into Tableau
 - Built a churn analysis dashboard
 - Visualized key metrics such as:
   - Overall churn rate

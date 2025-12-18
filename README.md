@@ -39,6 +39,7 @@ It includes customer demographics, service subscriptions, contract details, mont
 ---
 
 ## 📊 Dashboard Preview
+![Churn Dashboard](Churn-Analysis-Dashboard.png)
 
 
 ---

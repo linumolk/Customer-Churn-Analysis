@@ -1,26 +1,55 @@
-# Telco-Customer-Churn-Analysis
+# Telco Customer Churn Analysis
 
-### Objective:
-This project focuses on customer churn analysis in the telecom industry, with the goal of identifying why customers churn and providing actionable insights to reduce churn. 
+## 🎯 Objective
+This project focuses on customer churn analysis in the telecom industry, with the goal of understanding why customers churn and providing actionable insights to help reduce customer attrition.
 
-### Tools Used:
-* MySQL 
-* Tableau
+---
 
-### About Dataset
-I collected the dataset from kaggle. It contains 7043 rows and 21 columns which defines the customer details, services they are using, monthly charges etc.
+## 🛠 Tools Used
+- MySQL
+- Tableau
 
-### End to End Process
-#### MySQL
-* Imported the dataset to MySQL
-* Cleaned the dataset
-* Transormed the dataset
-* Conducted exploratory data analysis
-* Analyzed findings
-* Come with an actionable solution
+---
 
-#### Tableau
-* Created Churn analysis dashboard showing Churn rate, Customer satisfaction on service types, churn rate based on tenure etc.
+## 📂 Dataset
+The dataset was sourced from Kaggle and contains **7,043 rows** and **21 columns**.
+It includes customer demographics, service subscriptions, contract details, monthly charges, and churn status.
 
-Below shows the dashboard I have created on Tableau : 
+---
+
+## 🔄 Project Workflow
+
+### MySQL
+- Imported the dataset into MySQL
+- Cleaned the data by handling null values and correcting data types
+- Transformed the data for analysis
+- Conducted exploratory data analysis (EDA)
+- Analyzed churn patterns and trends
+- Derived actionable insights to reduce churn
+
+### Tableau
+- Built an interactive churn analysis dashboard
+- Visualized key metrics such as:
+  - Overall churn rate
+  - Churn by tenure
+  - Churn by contract type
+  - Customer satisfaction across service types
+
+---
+
+## 📊 Dashboard Preview
+*(Add dashboard screenshots here)*
+
+---
+
+## 🔍 Key Insights
+- Customers with month-to-month contracts show the highest churn rate
+- New customers with lower tenure are more likely to churn
+- Long-term contracts significantly reduce churn
+- Customers using fewer services are more prone to churn
+
+---
+
+## ✅ Conclusion
+This analysis highlights key factors contributing to customer churn in the telecom industry and provides insights that can help businesses improve customer retention strategies.
 

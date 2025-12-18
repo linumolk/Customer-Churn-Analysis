@@ -48,7 +48,14 @@ It includes customer demographics, service subscriptions, contract details, mont
 - Customers with month-to-month contracts show the highest churn rate
 - New customers with lower tenure are more likely to churn
 - Long-term contracts significantly reduce churn
+- Senior citizens and electronic check users are high-risk segments
 - Customers using fewer services are more prone to churn
+
+## 💡 Recommendations
+- Promote long-term contracts through discounts and loyalty offers.
+- Improve fiber optic service quality to enhance customer satisfaction.
+- Offer bundled plans with security and technical support services.
+
 
 ---
 

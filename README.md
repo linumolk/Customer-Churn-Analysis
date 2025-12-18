@@ -28,7 +28,7 @@ It includes customer demographics, service subscriptions, contract details, mont
 - Derived actionable insights to reduce churn
 
 ### Tableau
-- Built an interactive churn analysis dashboard
+- Built a churn analysis dashboard
 - Visualized key metrics such as:
   - Overall churn rate
   - Churn by tenure
@@ -38,7 +38,7 @@ It includes customer demographics, service subscriptions, contract details, mont
 ---
 
 ## 📊 Dashboard Preview
-*(Add dashboard screenshots here)*
+
 
 ---
 
